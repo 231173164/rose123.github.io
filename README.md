@@ -79,7 +79,7 @@ I am a Computer Science student at Cape Peninsula University of Technology, pass
 
 ## 🎥 Mock Interview Video
 
-[Watch my mock interview here](mock-interview.mp4)
+[Watch my mock interview here](20220912_161807.jpg)
 
 > *If the video doesn't play, you can download it [here](mock-interview.mp4)*
 

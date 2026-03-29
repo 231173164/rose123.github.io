@@ -80,4 +80,3 @@ Lecturer at CPUT
 
 ---
 
-*Last updated: March 2026*

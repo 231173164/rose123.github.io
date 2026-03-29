@@ -1,97 +1,82 @@
-# John Doe
+# Rose Molakeng
 
-📍 Cape Town, South Africa | 📧 john.doe@cput.ac.za | 📱 123-456-7890  
-🔗 [GitHub](https://github.com/johndoe) | 🔗 [LinkedIn](https://linkedin.com/in/johndoe)
+📍 Cape Station, Adderly St, Foreshore, Cape Town, 8001  
+📱 0836318154  
+📧 231173164@mycput.ac.za  
+🔗 [LinkedIn](https://www.linkedin.com/in/rose-molakeng-741935352)  
+🔗 [GitHub](https://github.com/231173164)
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-I am a Computer Science student at Cape Peninsula University of Technology, passionate about software development and web technologies. I enjoy building useful applications and solving real-world problems through code.
+I am a dedicated Information and Communication Technology student with a strong interest in software development and web technologies. I enjoy building practical solutions, working in teams, and continuously improving my technical and problem-solving skills through real-world projects.
 
 ---
 
 ## 🎓 Education
 
 ### Cape Peninsula University of Technology
-**Diploma in Information Technology**  
-*2024 – Present*
+**Diploma in Information and Communication Technology**  
+*2024 – 2026*
 
-- Currently in my 1st year
-- Modules: Programming, Web Development, Databases, Networking
-- Academic average: 75%
+### Cape Peninsula University of Technology
+**Higher Certificate in Information and Communication Technology**  
+*2023*
 
----
-
-## 💼 Experience
-
-### Student Web Developer (Intern)
-**CPUT IT Department** | *Jan 2025 – Present*
-
-- Built and maintained internal websites for university departments
-- Collaborated with a team of 4 developers using GitHub
-- Implemented responsive designs that work on mobile and desktop
-
-### IT Support Assistant
-**University Computer Lab** | *2024 – 2025*
-
-- Assisted students with technical issues and software installation
-- Maintained 30+ lab computers and troubleshooting hardware problems
+### Iketsetseng Comprehensive Secondary School  
+**National Senior Certificate**  
+*2021*
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 | Category | Skills |
 |----------|--------|
-| Programming | Python, JavaScript, HTML, CSS |
-| Web | React, Node.js, Markdown, GitHub Pages |
-| Databases | MySQL, MongoDB |
-| Tools | Git, VS Code, Figma |
+| Programming | Java, Python, JavaScript |
+| Web Technologies | HTML, CSS |
+| Databases | MySQL, Derby |
+| Tools | Notepad++, Git, GitHub, NetBeans |
 
 ---
 
 ## 📁 Projects
 
-### Personal Portfolio Website
-[View Project](https://github.com/johndoe/portfolio)
+### Little Moments, Big Memories – Pet Photography Website
+- Developed a responsive website using HTML, CSS, and JavaScript  
+- Focused on clean design and user-friendly navigation  
+- Showcased creativity and front-end development skills  
 
-- Built a responsive portfolio website using HTML, CSS, and JavaScript
-- Deployed live on GitHub Pages
-- Features: dark mode, contact form, project gallery
+### TrustTrade – Marketplace App (Group Project)
+- Contributed to system planning and feature design  
+- Participated in problem solving and idea generation  
+- Strengthened teamwork and application development skills  
 
-### Student Management System
-[View Project](https://github.com/johndoe/student-system)
-
-- Created a command-line app in Python to manage student records
-- Features: add, delete, search, and update student information
-- Used JSON for data storage
+### IT Professional Interview & Documentation Project
+- Conducted research and interviewed an IT professional  
+- Created structured technical documentation  
+- Demonstrated professional communication skills  
 
 ---
 
-## 🏆 Achievements
+## 📫 References
 
-- **Best First-Year Project** – CPUT IT Department, 2025
-- **GitHub Campus Expert** – Completed training program
-- **Hackathon Participant** – Built a weather app in 24 hours
+### Mrs N. Tungela  
+Lecturer at CPUT  
+📱 0678055541  
+📧 tungelan@cput.ac.za  
+
+### Mr T. Chowuraya  
+Lecturer at CPUT  
+📱 0780185724  
+📧 tawandachowraya@gmail.com  
 
 ---
 
 ## 🎥 Mock Interview Video
 
-[Watch my mock interview here](20220912_161807.jpg)
-
-> *If the video doesn't play, you can download it [here](mock-interview.mp4)*
-
----
-
-## 📫 Contact Me
-
-Feel free to reach out if you'd like to collaborate on a project or just want to connect!
-
-- **Email:** john.doe@cput.ac.za
-- **GitHub:** [@johndoe](https://github.com/johndoe)
-- **LinkedIn:** [John Doe](https://linkedin.com/in/johndoe)
+[Watch my mock interview](20220912_161807.jpg)
 
 ---
 
